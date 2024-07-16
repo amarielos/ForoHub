@@ -1,7 +1,8 @@
 <h1>ForoHub</h1>
 <p>API que permite las solicitudes REST para iniciar sesión y CRUD de los tópicos de un foro. </p>
 
-<h4 align="center">Proyecto Finalizado</h3>
+<img align="center" src="foroHub_badge.png" />
+<h4 align="center">Proyecto Finalizado</h4>
 
 <h3>📁 Acceso al proyecto</h3>
 <ol>
